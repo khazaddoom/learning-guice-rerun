@@ -2,6 +2,8 @@
   <library name="guice-3.0">
     <CLASSES>
       <root url="jar://$USER_HOME$/Downloads/guice-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.inject-1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aopalliance-1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
